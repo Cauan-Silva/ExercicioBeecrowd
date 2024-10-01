@@ -1,1 +1,1 @@
-# Exercicio_Beecrowd
+# ExercicioBeecrowd
